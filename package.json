@@ -1,7 +1,8 @@
 {
-  "name": "node-template",
-  "packageManager": "yarn@4.0.2",
-  "devDependencies": {
-    "hardhat": "^2.22.2"
-  }
+	"name": "hardhat-example",
+	"packageManager": "yarn@4.18.1",
+	"devDependencies": {
+		"hardhat": "^2.22.2"
+	},
+	"private": true
 }
